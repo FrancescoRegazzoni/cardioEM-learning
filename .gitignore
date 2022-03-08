@@ -1,0 +1,7 @@
+# python
+cache
+__pycache__
+*.pyc
+# vscode
+.vscode
+launch.json
