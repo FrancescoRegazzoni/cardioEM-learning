@@ -70,7 +70,7 @@ In this repository we show an example of the use of ROM, implemented both in **<
 
 ## References
 
-[1] F. Regazzoni, M. Salvador, L. Dede', A. Quarteroni [A Machine Learning method for real-time numerical simulations of cardiac electromechanics](https://arxiv.org/abs/2110.13212), *Computer Methods in Applied Mechanics and Engineering* (2022).
+[1] F. Regazzoni, M. Salvador, L. Dede', A. Quarteroni [A Machine Learning method for real-time numerical simulations of cardiac electromechanics](https://doi.org/10.1016/j.cma.2022.114825), *Computer Methods in Applied Mechanics and Engineering* (2022).
 
 [2] F. Regazzoni, L. Dede', A. Quarteroni [Machine learning for fast and reliable solution of time-dependent differential equations](https://doi.org/10.1016/j.jcp.2019.07.050), *Journal of Computational Physics* (2019).
 
